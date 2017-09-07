@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "mzz-chromeextension-timestamp",
+  "description": "This extension shows a date and time stamp for convenience",
+  "version": "20170907.1538",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
